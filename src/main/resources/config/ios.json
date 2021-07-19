@@ -1,0 +1,16 @@
+{
+  "appium": {
+    "capabilities": {
+      "deviceName": "iPhone (MMTR)",
+      "xcodeOrgId": "L8RRJQRVFV",
+      "bundleId": "ru.naimix.mobile",
+      "agentPath": "/Users/mmtr/.npm-packages/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj",
+      "bootstrapPath": "/Users/mmtr/.npm-packages/lib/node_modules/appium/node_modules/appium-webdriveragent",
+      "udid": "auto",
+      "useNewWDA": true,
+      "waitForQuiescence": false
+    },
+    "url": "http://10.254.7.253:4723/wd/hub",
+    "implicitlyWait": 6
+  }
+}

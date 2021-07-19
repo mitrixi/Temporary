@@ -1,0 +1,12 @@
+{
+  "appium": {
+    "capabilities": {
+      "deviceName": "Pixel 3a API 25",
+      "udid": "emulator-5554",
+      "appPackage": "com.naimix",
+      "appActivity": "com.naimix.MainActivity"
+    },
+    "url": "http://10.254.0.131:4723/wd/hub",
+    "implicitlyWait": 60
+  }
+}

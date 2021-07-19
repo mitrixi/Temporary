@@ -1,0 +1,13 @@
+{
+  "appium": {
+    "capabilities": {
+      "platformVersion": "12.4",
+      "deviceName": "iPhone 6",
+      "bundleId": "ru.naimix.mobile",
+      "useNewWDA": true,
+      "waitForQuiescence": false
+    },
+    "url": "http://127.0.0.1:4723/wd/hub",
+    "implicitlyWait": 5
+  }
+}

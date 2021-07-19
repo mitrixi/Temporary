@@ -1,0 +1,12 @@
+{
+  "appium": {
+    "capabilities": {
+      "deviceName": "Xiaomi Redmi 7",
+      "udid": "a6eaa0e2",
+      "appPackage": "com.naimix",
+      "appActivity": "com.naimix.MainActivity"
+    },
+    "url": "http://10.254.0.131:4723/wd/hub",
+    "implicitlyWait": 60
+  }
+}
