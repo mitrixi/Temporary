@@ -9,7 +9,6 @@
 #adfadfasdf
 .gradle/
 allure-results/
-build.gradle
 build/
 gradle/
 gradlew
